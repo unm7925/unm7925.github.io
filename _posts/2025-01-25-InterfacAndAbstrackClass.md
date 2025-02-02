@@ -9,7 +9,7 @@ pin: false # 고정
 # math: false 수학기호
 # mermaid: false 수학기호
 image:
-  path: 'main.png' # 이미지 이름
+  path: 'Main.png' # 이미지 이름
   # lqip:  # 저화질 넣기(인터넷)
   alt: 인터페이스와 추상클래스 싸움 수준 실화냐? # 부연설명명
 media_subpath: '/assets/img/Github_Pages/InterfacAndAbstractClass' # 이미지 주소 ( 끝 전)

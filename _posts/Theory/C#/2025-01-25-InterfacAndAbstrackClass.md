@@ -3,8 +3,8 @@ title: 인터페이스와 추상클래스
 description: Interface And AbstractClass
 author: unm7925
 date: 2025-01-25 04:00:00 +0900
-categories: [ theory ]
-tags: [c#, unity]
+categories: [ Theory ]
+tags: [ Csharp , Unity]
 pin: false # 고정
 # math: false 수학기호
 # mermaid: false 수학기호

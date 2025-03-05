@@ -4,7 +4,7 @@ description: Algorithm Solved List
 author: unm7925
 date: 2025-02-06 04:00:00 +0900
 categories: [ Algorithm ]
-tags: [c++]
+tags: [C++]
 pin: true # 고정
 # math: false 수학기호
 # mermaid: false 수학기호

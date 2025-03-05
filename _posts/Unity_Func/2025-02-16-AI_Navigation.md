@@ -4,7 +4,7 @@ description: AI Navigation
 author: unm7925
 date: 2025-01-22 04:00:00 +0900
 categories: [ Unity_Func ]
-tags: [c#, Unity]
+tags: [Csharp, Unity]
 pin: false # 고정
 # math: false 수학기호
 # mermaid: false 수학기호

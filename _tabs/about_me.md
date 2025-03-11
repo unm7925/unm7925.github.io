@@ -14,8 +14,8 @@ order: 4
 
 | ---   | Max | Current |
 | ----- | --- | ------- |
-| Bench | 90  | 70      |
-| Squat | 120 | 80      |
-| Dead  | 135 | 110     |
+| Bench | 90  | 80      |
+| Squat | 120 | 100     |
+| Dead  | 135 | 125     |
 
 {: .prompt-tip }
